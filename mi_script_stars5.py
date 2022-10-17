@@ -4,7 +4,7 @@ import unittest
 from pyunitreport import HTMLTestRunner
 from selenium import webdriver
 
-class HelloWorld(unittest.TestCase): 
+class ProductList(unittest.TestCase): 
      
     @classmethod
     def setUpClass(cls):
